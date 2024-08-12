@@ -1,3 +1,3 @@
-# Projeto-Faculdade-Prog.-WEB
+# PHP college project-Prog.WEB
 
-Projeto da Faculdade PHP.
+PHP college project
